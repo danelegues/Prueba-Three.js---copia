@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prueba caja CSGO</title>
+    <link rel="stylesheet" href="index.css">
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap"
+      rel="stylesheet"
+    />
+    <script async src="https://unpkg.com/es-module-shims@1.6.3/dist/es-module-shims.js"></script>
+    <script type="importmap">
+        {
+            "imports": {
+                "three": "https://unpkg.com/three@v0.153.0/build/three.module.js", 
+                "three/examples/jsm/loaders/GLTFLoader.js": "https://unpkg.com/three@v0.153.0/examples/jsm/loaders/GLTFLoader.js",
+                "three/examples/jsm/controls/OrbitControls.js": "https://unpkg.com/three@v0.153.0/examples/jsm/controls/OrbitControls.js",
+                "three/examples/jsm/renderers/CSS3DRenderer.js": "https://unpkg.com/three@v0.153.0/examples/jsm/renderers/CSS3DRenderer.js"
+            }
+        }
+    </script>
+</head>
+<body>
+    <div class="nombreCaja">
+        <h1>CAJA GAMMA</h1>
+    </div>
+    
+    <div class="contenidoSuperior">
+        <div class="punteroSuperior"></div>
+        <div class="trianguloSuperior"></div>
+    </div>
+
+    <div id="cards-container"></div>
+
+    <div class="contenidoInferior">
+        <div class="trianguloInferior"></div>
+        <div class="punteroInferior"></div>
+    </div>
+
+    <script type="module" src="./main.js"></script>
+</body>
+</html>

@@ -1,0 +1,686 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 7374,
+      "max": [
+        1.6443510055541992,
+        1.6262116432189941,
+        1.1670961380004883
+      ],
+      "min": [
+        -1.6443512439727783,
+        0.0,
+        -0.9481772184371948
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 88488,
+      "componentType": 5126,
+      "count": 7374,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 7374,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 7374,
+      "max": [
+        0.9981834888458252,
+        1.0
+      ],
+      "min": [
+        -7.672658952628808e-09,
+        -1.1154991597095432e-08
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 23052,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 176976,
+      "componentType": 5126,
+      "count": 6386,
+      "max": [
+        1.6443510055541992,
+        0.280029833316803,
+        2.101055145263672
+      ],
+      "min": [
+        -1.6443512439727783,
+        -0.0501132607460022,
+        -0.05011320114135742
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 253608,
+      "componentType": 5126,
+      "count": 6386,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 117984,
+      "componentType": 5126,
+      "count": 6386,
+      "max": [
+        0.9464260935783386,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9952192306518555,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 58992,
+      "componentType": 5126,
+      "count": 6386,
+      "max": [
+        0.9522846937179565,
+        0.9549547433853149
+      ],
+      "min": [
+        -2.1382036141659455e-09,
+        -1.3599703585498446e-08
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 92208,
+      "componentType": 5125,
+      "count": 22155,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 330240,
+      "componentType": 5126,
+      "count": 1989,
+      "max": [
+        1.7730445861816406,
+        3.5005154609680176,
+        1.0
+      ],
+      "min": [
+        -1.7730445861816406,
+        -1.715317726135254,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 354108,
+      "componentType": 5126,
+      "count": 1989,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 220160,
+      "componentType": 5126,
+      "count": 1989,
+      "max": [
+        1.0,
+        0.9999998211860657,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9999998807907104,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 110080,
+      "componentType": 5126,
+      "count": 1989,
+      "max": [
+        0.13990069925785065,
+        0.3408140540122986
+      ],
+      "min": [
+        0.023058563470840454,
+        0.09774170070886612
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 180828,
+      "componentType": 5125,
+      "count": 7482,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 377976,
+      "componentType": 5126,
+      "count": 6436,
+      "max": [
+        1.2386841773986816,
+        0.2604314088821411,
+        0.09938383102416992
+      ],
+      "min": [
+        -1.2386841773986816,
+        -0.1963869333267212,
+        -0.058030009269714355
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 455208,
+      "componentType": 5126,
+      "count": 6436,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 251984,
+      "componentType": 5126,
+      "count": 6436,
+      "max": [
+        0.9999178051948547,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9999986290931702,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 125992,
+      "componentType": 5126,
+      "count": 6436,
+      "max": [
+        0.9256265163421631,
+        0.9318093061447144
+      ],
+      "min": [
+        0.0806623175740242,
+        0.12985698878765106
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 210756,
+      "componentType": 5125,
+      "count": 28992,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "artfreex (https://sketchfab.com/artfreex)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/csgo-case-1d0b7a108aa64a3394ae21c88b8ae23f",
+      "title": "CS:GO Case"
+    },
+    "generator": "Sketchfab-15.55.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 326724,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 177480,
+      "byteOffset": 326724,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 532440,
+      "byteOffset": 504204,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 354960,
+      "byteOffset": 1036644,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1391604,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/CSGO_Case_Btm_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/CSGO_Case_Btm_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/CSGO_Case_Btm_normal.png"
+    },
+    {
+      "uri": "textures/CSGO_Case_Top_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/CSGO_Case_Top_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/CSGO_Case_Top_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "CSGO_Case_Btm",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "CSGO_Case_Top",
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 4
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Case_Btm_CSGO_Case_Btm_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Case_Top_CSGO_Case_Top_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Lock_CSGO_Case_Top_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Fastener_CSGO_Case_Btm_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 16,
+            "POSITION": 15,
+            "TANGENT": 17,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "5d39435a8cf94295bfb6d9c472e70d4c.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        7,
+        9
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.27800750732421875,
+        -0.08385157585144043,
+        9.051843643188477,
+        1.0
+      ],
+      "name": "Case_Btm"
+    },
+    {
+      "mesh": 0,
+      "name": "Case_Btm_CSGO_Case_Btm_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.8660253368945544,
+        -0.50000011585666,
+        0.0,
+        0.0,
+        0.50000011585666,
+        0.8660253368945544,
+        0.0,
+        5.960464477539063e-08,
+        1.6294915676116943,
+        -0.9339590072631836,
+        1.0
+      ],
+      "name": "Case_Top"
+    },
+    {
+      "mesh": 1,
+      "name": "Case_Top_CSGO_Case_Top_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        0.06182016785580129,
+        -0.010611079833229382,
+        0.008131710951880991,
+        0.0,
+        0.010572893910380094,
+        0.06235141913558885,
+        0.0009835334714833567,
+        0.0,
+        -0.008181298955053292,
+        0.0003980056563835208,
+        0.06271651162857422,
+        0.0,
+        1.5790749788284302,
+        1.4686970710754395,
+        1.0995140075683594,
+        1.0
+      ],
+      "name": "Lock"
+    },
+    {
+      "mesh": 2,
+      "name": "Lock_CSGO_Case_Top_0"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.9063078112935419,
+        0.422618209721623,
+        0.0,
+        0.0,
+        -0.422618209721623,
+        0.9063078112935419,
+        0.0,
+        5.960464477539063e-08,
+        1.5113459825515747,
+        1.0927772521972656,
+        1.0
+      ],
+      "name": "Fastener"
+    },
+    {
+      "mesh": 3,
+      "name": "Fastener_CSGO_Case_Btm_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    }
+  ]
+}
